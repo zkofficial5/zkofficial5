@@ -63,17 +63,6 @@ and building applications that perform as well as they present.
 
 ---
 
-### `> github.stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zkofficial5&show_icons=true&theme=transparent&hide_border=true&title_color=c9517a&icon_color=c9517a&text_color=888&ring_color=c9517a" height="155" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkofficial5&layout=compact&theme=transparent&hide_border=true&title_color=c9517a&text_color=888" height="155" />
-
-</div>
-
----
 
 ### `> links`
 
