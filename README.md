@@ -64,7 +64,7 @@ and building applications that perform as well as they present.
 ---
 ### `> github.stats`
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkofficial5&layout=compact&theme=transparent&hide_border=true&title_color=c9517a&text_color=888" height="155" />
 
@@ -74,7 +74,7 @@ and building applications that perform as well as they present.
 
 ### `> links`
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoya-khan)
 &nbsp;
