@@ -135,7 +135,7 @@ class Zoya extends Developer {
   }
 
   get java(): never {
-    throw new Error("not in this repo. not in this lifetime.");
+    throw new Error("absolutely not. not in this repo. not in this lifetime.");
   }
 }
 ```
