@@ -178,7 +178,7 @@ the code is better.
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-c9517a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zkofficial108@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-c9517a?style=for-the-badge&logo=vercel&logoColor=white)](https://zkofficial-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1d13d5?style=for-the-badge&logo=vercel&logoColor=white)](https://zkofficial-portfolio.vercel.app/)
 
 </div>
 
